@@ -1,3 +1,2 @@
 #!/usr/bin/env ruby
-puts "やあ、すまない今日は閉店なんだ"
-
+puts "やっぱ開店した"
