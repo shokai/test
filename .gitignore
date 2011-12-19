@@ -1,0 +1,5 @@
+*.tmp
+*.gif
+*.log
+.DS_Store
+~*
